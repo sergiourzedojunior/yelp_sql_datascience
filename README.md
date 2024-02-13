@@ -14,4 +14,4 @@ https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
 
 # criando nova tabela checkin
 1. nova_checkin.ipynb
-    ### modifica a estrutura da tabela original separando as datas de checkin por linha de acordo com o id 
+   # modifica a estrutura da tabela original separando as datas de checkin por linha de acordo com o id 
