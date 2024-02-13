@@ -11,3 +11,6 @@ https://www.yelp.com/dataset/download
 https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
 1. kaggle_Code_snippet_to_read_the_files.ipynb
 2. creat a db master with the .db created in step 3 - master_db.ipynb
+
+# criando nova tabela checkin
+1. nova_checkin.ipynb
