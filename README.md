@@ -17,3 +17,8 @@ https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
    ##### modifica a estrutura da tabela original separando as datas de checkin por linha de acordo com o id 
 2. nova_checkin_timestamp.sql
    ##### coluna date str to timestamp
+
+# projeto - clusterização dos shoppings de Santa Barbara CA por star rating
+### modelo_kmeans.ipynb
+1. código kmeans e teste Silhouette Score
+2. geolocalização com mapa em .html
