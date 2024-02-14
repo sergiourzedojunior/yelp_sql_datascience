@@ -1,24 +1,24 @@
 # yelp_sql_datascience
-building a master database from a .tar file. Step by step with python code
+Creating a master database from a .tar file. Step by step with python code
 https://www.yelp.com/dataset/download
 
-# steps
+# Steps
 - https://www.yelp.com/dataset/download
 1. extract tar to json - extract_tar.ipynb
-2. transform json to sqlite - json_to_sql.ipynb
-3. creat a db master with the .db created in step 3 - master_db.ipynb
-# alternative steps
+2. transform json into sqlite - json_to_sql.ipynb
+3. create a master db with the .db created in step 3 - master_db.ipynb
+# Alternative steps
 https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
 1. kaggle_Code_snippet_to_read_the_files.ipynb
-2. creat a db master with the .db created in step 3 - master_db.ipynb
+2. create a master db with the .db created in step 3 - master_db.ipynb
 
-# criando nova tabela checkin
+# Creating a new checkin table
 1. nova_checkin.ipynb
-   ##### modifica a estrutura da tabela original separando as datas de checkin por linha de acordo com o id 
+   ##### modifies the structure of the original table by separating the checkin data by row according to id 
 2. nova_checkin_timestamp.sql
-   ##### coluna date str to timestamp
+   ##### column date str to timestamp
 
-# projeto - clusterização dos shoppings de Santa Barbara CA por star rating
-### modelo_kmeans.ipynb
-1. código kmeans e teste Silhouette Score
-2. geolocalização com mapa em .html
+# Project - clustering of Santa Barbara CA shopping malls by star rating
+### model_kmeans.ipynb
+1. kmeans code and Silhouette Score test
+2. geolocation with .html map
